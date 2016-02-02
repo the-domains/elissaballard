@@ -1,0 +1,28 @@
+name: ElissaBallard
+favicon: null
+layout_spectrum: 0.9009065418504179
+typography_spectrum: 0.08210154250264168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3235192862339318
+  lightness: 0.6462137026246637
+  saturation: 0.2803643085062504
+  rhythmicContrast: 0.010825442150235176
+purpose: []
