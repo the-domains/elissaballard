@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-08-03T01:16:26.375Z'
-isBasedOnUrl: 'https://vimeo.com/133190364'
+datePublished: '2016-08-03T01:26:35.085Z'
 author:
   - name: The Moxie Institute
     url: 'http://vimeo.com/moxieinstitute'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T00:30:53.724Z'
+dateModified: '2016-08-03T01:26:34.794Z'
 title: 'Creating happy, healthy, mind habits!'
 publisher: {}
 description: >-
@@ -17,11 +16,10 @@ description: >-
   worlds; education and awareness practices, as I believe it is what students
   and school communities around the globe need to fulfill their untapped human
   potential.
-starred: true
 sourcePath: _posts/2016-08-03-creating-happy-healthy-mind-habits.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: true
+url: creating-happy-healthy-mind-habits/index.html
 _type: MediaObject
 
 ---
