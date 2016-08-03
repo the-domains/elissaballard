@@ -28,6 +28,9 @@ navigation:
   - name: Mindfulness in Education
     id: e0efe126-b644-4696-848b-08d241610f2d
     type: content
+  - name: Yoga
+    id: 718b0051-161e-4f45-abeb-f0ba1ff3a77f
+    type: content
 favicon: null
 collections:
   - index:
