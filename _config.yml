@@ -1,5 +1,34 @@
-title: Yoga & Mindfulness
-purpose: []
+typography_spectrum: 0.08210154250264168
+color:
+  saturation: 0.4874687
+  brandStrength: 0.3235192862339318
+  lightness: 0.8433584
+  brandColors:
+    - '#060608'
+    - '#9FB8FA'
+    - '#322A1D'
+    - '#76A577'
+    - '#6A7245'
+  rhythmicContrast: 0.7926065
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: ElissaBallard
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Mindfulness in Education
+    id: e0efe126-b644-4696-848b-08d241610f2d
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,31 +41,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Yoga & Mindfulness
 description: Awakened Practices for Every-Day Living
-color:
-  saturation: 0.4874687
-  brandStrength: 0.3235192862339318
-  lightness: 0.8433584
-  brandColors:
-    - '#060608'
-    - '#9FB8FA'
-    - '#322A1D'
-    - '#76A577'
-    - '#6A7245'
-  rhythmicContrast: 0.7926065
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: ElissaBallard
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.08210154250264168
-layout_spectrum: 0
+purpose: []
