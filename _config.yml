@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Awakened Practices for Every-Day Living
 color:
   saturation: 0.4874687
   brandStrength: 0.3235192862339318
   lightness: 0.8433584
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#060608'
+    - '#9FB8FA'
+    - '#322A1D'
+    - '#76A577'
+    - '#6A7245'
   rhythmicContrast: 0.7926065
 cta:
   bucket: null
