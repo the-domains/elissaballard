@@ -1,30 +1,42 @@
-typography_spectrum: 0.08210154250264168
+title: Yoga & Mindfulness
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Awakened Practices for Every-Day Living
 color:
+  saturation: 0.4874687
+  brandStrength: 0.3235192862339318
+  lightness: 0.8433584
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3235192862339318
-  lightness: 0.6462137026246637
-  saturation: 0.2803643085062504
-  rhythmicContrast: 0.010825442150235176
+  rhythmicContrast: 0.7926065
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: ElissaBallard
 opengraph:
   image: null
   type: null
   appId: null
+typography_spectrum: 0.08210154250264168
 layout_spectrum: 0.9009065418504179
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: ElissaBallard
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Yoga & Mindfulness
-description: Awakened Practices for Every-Day Living
-purpose: []
