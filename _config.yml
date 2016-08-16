@@ -1,3 +1,7 @@
+name: ElissaBallard
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.08210154250264168
 description: Awakened Practices for Every-Day Living
 navigation:
   - name: Mindfulness in Education
@@ -6,11 +10,6 @@ navigation:
   - name: Yoga
     id: 718b0051-161e-4f45-abeb-f0ba1ff3a77f
     type: content
-typography_spectrum: 0.08210154250264168
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -23,27 +22,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
 title: Yoga & Mindfulness
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4874687
-  brandStrength: 0.3235192862339318
-  rhythmicContrast: 0.7926065
   brandColors:
     - '#BE7F3C'
     - '#D5D9DC'
     - '#47351B'
     - '#AE5D11'
     - '#C0A686'
+  brandStrength: 0.3235192862339318
   lightness: 0.8433584
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: ElissaBallard
+  saturation: 0.4874687
+  rhythmicContrast: 0.7926065
+purpose: []
